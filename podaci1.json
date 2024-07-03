@@ -1,0 +1,27 @@
+[
+  {
+    "PositionName": "Manager",
+    "PositionCode": "MGR123",
+    "RecordStatus": "Active"
+  },
+  {
+    "PositionName": "Developer",
+    "PositionCode": "1234",
+    "RecordStatus": "Inactive"
+  },
+  {
+    "PositionName": "",
+    "PositionCode": "800",
+    "RecordStatus": "Active"
+  },
+  {
+    "PositionName": "Tester",
+    "PositionCode": "",
+    "RecordStatus": "Inactive"
+  },
+  {
+    "PositionName": "Analyst",
+    "PositionCode": "ANL006",
+    "RecordStatus": "Enter record status..."
+  }
+]
